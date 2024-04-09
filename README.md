@@ -1,7 +1,7 @@
 Georgios Lazari
 G21065613
 
-URl: https://vesta.uclan.ac.uk/~glazari/Assignment2-GeorgiosLazari-G21065613/index.php
+URl: https://vesta.uclan.ac.uk/~glazari/lazari-georgios_G21065613_assignment-two/index.php
 
 Prefered browser: Google Chrome
 
